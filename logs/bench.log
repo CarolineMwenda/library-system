@@ -1,0 +1,253 @@
+2024-02-22 11:59:29,659 DEBUG cd frappe-bench && python3 -m venv env
+2024-02-22 11:59:33,905 DEBUG cd frappe-bench && /home/nash_dev/frappe-bench/env/bin/python -m pip install --quiet --upgrade pip
+2024-02-22 11:59:37,192 DEBUG cd frappe-bench && /home/nash_dev/frappe-bench/env/bin/python -m pip install --quiet wheel
+2024-02-22 11:59:51,183 LOG Getting frappe
+2024-02-22 11:59:51,184 DEBUG cd frappe-bench/apps && git clone https://github.com/frappe/frappe.git --branch version-14 --depth 1 --origin upstream
+2024-02-22 12:00:01,875 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-22 12:00:35,307 LOG Installing frappe
+2024-02-22 12:00:35,308 DEBUG cd /home/nash_dev/frappe-bench && /home/nash_dev/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /home/nash_dev/frappe-bench/apps/frappe 
+2024-02-22 12:01:32,776 DEBUG cd /home/nash_dev/frappe-bench/apps/frappe && yarn install --check-files
+2024-02-22 12:01:47,367 WARNING restart failed: Couldn't find supervisorctl in PATH
+2024-02-22 12:01:47,367 DEBUG cd frappe-bench && bench build
+2024-02-22 12:01:47,506 INFO /usr/local/bin/bench build
+2024-02-22 12:02:11,819 LOG setting up backups
+2024-02-22 12:02:11,826 LOG backups were set up
+2024-02-22 12:02:11,826 INFO Bench frappe-bench initialized
+2024-02-22 12:04:18,713 INFO /usr/local/bin/bench new-site lib_management_sytsm
+2024-02-22 12:08:15,672 INFO /usr/local/bin/bench new-app library
+2024-02-22 12:08:15,674 LOG creating new app library
+2024-02-22 12:08:52,166 LOG Installing library
+2024-02-22 12:08:52,167 DEBUG cd /home/nash_dev/frappe-bench && /home/nash_dev/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /home/nash_dev/frappe-bench/apps/library 
+2024-02-22 12:08:56,000 DEBUG bench build --app library
+2024-02-22 12:08:56,141 INFO /usr/local/bin/bench build --app library
+2024-02-22 12:09:01,747 WARNING restart failed: Couldn't find supervisorctl in PATH
+2024-02-22 12:09:53,494 INFO /usr/local/bin/bench --site lib_management_sytsm install-app library
+2024-02-22 12:10:07,971 INFO /usr/local/bin/bench use lib_management_sytsm
+2024-02-22 12:10:13,611 INFO /usr/local/bin/bench start
+2024-02-22 12:10:14,091 INFO /usr/local/bin/bench serve --port 8000
+2024-02-22 12:10:14,119 INFO /usr/local/bin/bench worker
+2024-02-22 12:10:14,139 INFO /usr/local/bin/bench schedule
+2024-02-22 12:10:14,152 INFO /usr/local/bin/bench watch
+2024-02-22 12:53:08,722 INFO /usr/local/bin/bench --site lib_management_sytsm set-config developer_mode 1
+2024-02-22 12:53:15,847 INFO /usr/local/bin/bench start
+2024-02-22 12:53:16,337 INFO /usr/local/bin/bench schedule
+2024-02-22 12:53:16,354 INFO /usr/local/bin/bench serve --port 8000
+2024-02-22 12:53:16,388 INFO /usr/local/bin/bench worker
+2024-02-22 12:53:16,473 INFO /usr/local/bin/bench watch
+2024-02-22 16:27:26,120 INFO /usr/local/bin/bench start
+2024-02-22 16:27:26,635 INFO /usr/local/bin/bench watch
+2024-02-22 16:27:26,678 INFO /usr/local/bin/bench schedule
+2024-02-22 16:27:26,697 INFO /usr/local/bin/bench worker
+2024-02-22 16:27:26,715 INFO /usr/local/bin/bench serve --port 8000
+2024-02-22 20:27:44,884 INFO /usr/local/bin/bench use lib_management_sytsm
+2024-02-22 20:27:52,391 INFO /usr/local/bin/bench start
+2024-02-22 20:27:52,876 INFO /usr/local/bin/bench schedule
+2024-02-22 20:27:52,888 INFO /usr/local/bin/bench serve --port 8000
+2024-02-22 20:27:52,903 INFO /usr/local/bin/bench worker
+2024-02-22 20:27:52,921 INFO /usr/local/bin/bench watch
+2024-02-23 12:00:01,353 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-26 12:00:01,543 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-27 12:00:02,202 INFO /usr/local/bin/bench --verbose --site all backup
+2024-02-28 12:00:01,673 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-04 10:00:11,640 INFO /usr/local/bin/bench use lib_management_sytsm
+2024-03-04 10:00:25,499 INFO /usr/local/bin/bench start
+2024-03-04 10:00:26,006 INFO /usr/local/bin/bench watch
+2024-03-04 10:00:26,023 INFO /usr/local/bin/bench schedule
+2024-03-04 10:00:26,028 INFO /usr/local/bin/bench serve --port 8000
+2024-03-04 10:00:26,098 INFO /usr/local/bin/bench worker
+2024-03-04 11:53:44,828 INFO /usr/local/bin/bench use lib_management_sytsm
+2024-03-04 11:53:57,447 INFO /usr/local/bin/bench start
+2024-03-04 11:53:58,141 INFO /usr/local/bin/bench schedule
+2024-03-04 11:53:58,161 INFO /usr/local/bin/bench serve --port 8000
+2024-03-04 11:53:58,179 INFO /usr/local/bin/bench watch
+2024-03-04 11:53:58,301 INFO /usr/local/bin/bench worker
+2024-03-04 12:00:01,897 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-04 14:30:33,948 INFO /usr/local/bin/bench use lib_management_sytsm
+2024-03-04 14:31:00,199 INFO /usr/local/bin/bench start
+2024-03-04 14:31:00,721 INFO /usr/local/bin/bench watch
+2024-03-04 14:31:00,726 INFO /usr/local/bin/bench serve --port 8000
+2024-03-04 14:31:00,735 INFO /usr/local/bin/bench worker
+2024-03-04 14:31:00,757 INFO /usr/local/bin/bench schedule
+2024-03-04 20:24:32,563 INFO /usr/local/bin/bench use
+2024-03-04 20:24:44,976 INFO /usr/local/bin/bench use lib_management_sytsm
+2024-03-04 20:25:01,548 INFO /usr/local/bin/bench start
+2024-03-04 20:25:02,071 INFO /usr/local/bin/bench serve --port 8000
+2024-03-04 20:25:02,080 INFO /usr/local/bin/bench worker
+2024-03-04 20:25:02,095 INFO /usr/local/bin/bench watch
+2024-03-04 20:25:02,118 INFO /usr/local/bin/bench schedule
+2024-03-05 09:55:53,055 INFO /usr/local/bin/bench use lib_management_sytsm
+2024-03-05 09:57:31,113 INFO /usr/local/bin/bench start
+2024-03-05 09:57:31,617 INFO /usr/local/bin/bench serve --port 8000
+2024-03-05 09:57:31,627 INFO /usr/local/bin/bench schedule
+2024-03-05 09:57:31,631 INFO /usr/local/bin/bench worker
+2024-03-05 09:57:31,663 INFO /usr/local/bin/bench watch
+2024-03-05 11:34:48,374 INFO /usr/local/bin/bench mariadb
+2024-03-05 12:00:02,087 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-05 15:19:44,371 INFO /usr/local/bin/bench use lib_management_sytsm
+2024-03-05 15:19:57,121 INFO /usr/local/bin/bench start
+2024-03-05 15:19:57,760 INFO /usr/local/bin/bench watch
+2024-03-05 15:19:57,870 INFO /usr/local/bin/bench worker
+2024-03-05 15:19:57,880 INFO /usr/local/bin/bench serve --port 8000
+2024-03-05 15:19:57,883 INFO /usr/local/bin/bench schedule
+2024-03-05 21:42:53,986 INFO /usr/local/bin/bench use lib_management_sytsm
+2024-03-05 21:43:00,532 INFO /usr/local/bin/bench start
+2024-03-05 21:43:01,026 INFO /usr/local/bin/bench watch
+2024-03-05 21:43:01,045 INFO /usr/local/bin/bench schedule
+2024-03-05 21:43:01,052 INFO /usr/local/bin/bench worker
+2024-03-05 21:43:01,083 INFO /usr/local/bin/bench serve --port 8000
+2024-03-06 06:50:58,476 INFO /usr/local/bin/bench use lib_management_sytsm
+2024-03-06 06:51:06,845 INFO /usr/local/bin/bench start
+2024-03-06 06:51:07,330 INFO /usr/local/bin/bench watch
+2024-03-06 06:51:07,340 INFO /usr/local/bin/bench serve --port 8000
+2024-03-06 06:51:07,348 INFO /usr/local/bin/bench schedule
+2024-03-06 06:51:07,426 INFO /usr/local/bin/bench worker
+2024-03-06 10:40:34,271 INFO /usr/local/bin/bench use lib_management_sytsm
+2024-03-06 10:40:42,558 INFO /usr/local/bin/bench start
+2024-03-06 10:40:43,196 INFO /usr/local/bin/bench serve --port 8000
+2024-03-06 10:40:43,203 INFO /usr/local/bin/bench schedule
+2024-03-06 10:40:43,290 INFO /usr/local/bin/bench worker
+2024-03-06 10:40:43,339 INFO /usr/local/bin/bench watch
+2024-03-06 11:00:42,843 INFO /usr/local/bin/bench mariadb
+2024-03-06 12:00:01,564 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-08 11:07:10,806 INFO /usr/local/bin/bench use lib_management_sytsm
+2024-03-08 11:07:17,752 INFO /usr/local/bin/bench start
+2024-03-08 11:07:18,266 INFO /usr/local/bin/bench schedule
+2024-03-08 11:07:18,281 INFO /usr/local/bin/bench serve --port 8000
+2024-03-08 11:07:18,305 INFO /usr/local/bin/bench worker
+2024-03-08 11:07:18,338 INFO /usr/local/bin/bench watch
+2024-03-08 12:06:38,529 INFO /usr/local/bin/bench use lib_management_sytsm
+2024-03-08 12:07:07,888 INFO /usr/local/bin/bench start
+2024-03-08 12:07:08,357 INFO /usr/local/bin/bench serve --port 8000
+2024-03-08 12:07:08,372 INFO /usr/local/bin/bench schedule
+2024-03-08 12:07:08,393 INFO /usr/local/bin/bench watch
+2024-03-08 12:07:08,423 INFO /usr/local/bin/bench worker
+2024-03-08 12:13:31,892 INFO /usr/local/bin/bench use lib_management_sytsm
+2024-03-08 12:13:43,575 INFO /usr/local/bin/bench start
+2024-03-08 12:13:44,084 INFO /usr/local/bin/bench serve --port 8000
+2024-03-08 12:13:44,094 INFO /usr/local/bin/bench schedule
+2024-03-08 12:13:44,095 INFO /usr/local/bin/bench worker
+2024-03-08 12:13:44,119 INFO /usr/local/bin/bench watch
+2024-03-10 22:12:43,505 INFO /usr/local/bin/bench start
+2024-03-10 22:12:44,005 INFO /usr/local/bin/bench serve --port 8000
+2024-03-10 22:12:44,020 INFO /usr/local/bin/bench worker
+2024-03-10 22:12:44,048 INFO /usr/local/bin/bench schedule
+2024-03-10 22:12:44,107 INFO /usr/local/bin/bench watch
+2024-03-10 22:44:07,528 INFO /usr/local/bin/bench start
+2024-03-10 22:44:08,023 INFO /usr/local/bin/bench watch
+2024-03-10 22:44:08,043 INFO /usr/local/bin/bench schedule
+2024-03-10 22:44:08,062 INFO /usr/local/bin/bench worker
+2024-03-10 22:44:08,086 INFO /usr/local/bin/bench serve --port 8000
+2024-03-11 09:48:44,456 INFO /usr/local/bin/bench start
+2024-03-11 09:48:44,960 INFO /usr/local/bin/bench serve --port 8000
+2024-03-11 09:48:44,995 INFO /usr/local/bin/bench schedule
+2024-03-11 09:48:45,024 INFO /usr/local/bin/bench worker
+2024-03-11 09:48:45,034 INFO /usr/local/bin/bench watch
+2024-03-11 12:57:08,479 INFO /usr/local/bin/bench use lib_management_sytsm
+2024-03-11 12:57:15,520 INFO /usr/local/bin/bench start
+2024-03-11 12:57:16,289 INFO /usr/local/bin/bench watch
+2024-03-11 12:57:16,305 INFO /usr/local/bin/bench schedule
+2024-03-11 12:57:16,312 INFO /usr/local/bin/bench worker
+2024-03-11 12:57:16,361 INFO /usr/local/bin/bench serve --port 8000
+2024-03-11 17:39:38,586 INFO /usr/local/bin/bench use lib_management_sytsm
+2024-03-11 17:39:59,417 INFO /usr/local/bin/bench start
+2024-03-11 17:39:59,932 INFO /usr/local/bin/bench serve --port 8000
+2024-03-11 17:39:59,950 INFO /usr/local/bin/bench watch
+2024-03-11 17:39:59,961 INFO /usr/local/bin/bench worker
+2024-03-11 17:40:00,026 INFO /usr/local/bin/bench schedule
+2024-03-11 18:00:01,643 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-12 18:00:01,354 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-13 07:03:16,282 INFO /usr/local/bin/bench new-site actions.localhost
+2024-03-13 07:06:16,050 INFO /usr/local/bin/bench new-site actions.localhost
+2024-03-13 07:07:11,921 INFO /usr/local/bin/bench new-site ui.localhost
+2024-03-13 07:14:44,647 INFO /usr/local/bin/bench use ui.localhost
+2024-03-13 07:14:51,126 INFO /usr/local/bin/bench start
+2024-03-13 07:14:51,637 INFO /usr/local/bin/bench watch
+2024-03-13 07:14:51,653 INFO /usr/local/bin/bench worker
+2024-03-13 07:14:51,657 INFO /usr/local/bin/bench schedule
+2024-03-13 07:14:51,676 INFO /usr/local/bin/bench serve --port 8000
+2024-03-13 07:27:14,814 INFO /usr/local/bin/bench start
+2024-03-13 07:27:15,243 INFO /usr/local/bin/bench serve --port 8000
+2024-03-13 07:27:15,265 INFO /usr/local/bin/bench watch
+2024-03-13 07:27:15,342 INFO /usr/local/bin/bench schedule
+2024-03-13 07:27:15,376 INFO /usr/local/bin/bench worker
+2024-03-13 08:08:09,050 INFO /usr/local/bin/bench new-app frappe_actions
+2024-03-13 08:08:09,054 LOG creating new app frappe_actions
+2024-03-13 08:09:21,442 LOG Installing frappe_actions
+2024-03-13 08:09:21,443 DEBUG cd /home/nash_dev/frappe-bench && /home/nash_dev/frappe-bench/env/bin/python -m pip install --quiet --upgrade -e /home/nash_dev/frappe-bench/apps/frappe_actions 
+2024-03-13 08:09:26,646 DEBUG bench build --app frappe_actions
+2024-03-13 08:09:26,822 INFO /usr/local/bin/bench build --app frappe_actions
+2024-03-13 08:09:30,375 WARNING restart failed: Couldn't find supervisorctl in PATH
+2024-03-13 08:09:30,849 INFO A newer version of bench is available: 5.22.0 → 5.22.3
+2024-03-13 08:11:27,262 INFO /usr/local/bin/bench --site ui.actions install-app frappe_actions
+2024-03-13 08:11:58,619 INFO /usr/local/bin/bench --site ui.localhost install-app frappe_actions
+2024-03-13 08:12:42,172 INFO /usr/local/bin/bench start
+2024-03-13 08:12:42,693 INFO /usr/local/bin/bench serve --port 8000
+2024-03-13 08:12:42,702 INFO /usr/local/bin/bench worker
+2024-03-13 08:12:42,725 INFO /usr/local/bin/bench watch
+2024-03-13 08:12:42,760 INFO /usr/local/bin/bench schedule
+2024-03-13 08:52:35,362 INFO /usr/local/bin/bench
+2024-03-13 08:55:34,516 INFO /usr/local/bin/bench use lib_management_sytsm
+2024-03-13 08:55:39,581 INFO /usr/local/bin/bench start
+2024-03-13 08:55:40,052 INFO /usr/local/bin/bench watch
+2024-03-13 08:55:40,067 INFO /usr/local/bin/bench worker
+2024-03-13 08:55:40,143 INFO /usr/local/bin/bench serve --port 8000
+2024-03-13 08:55:40,149 INFO /usr/local/bin/bench schedule
+2024-03-13 10:53:33,055 INFO /usr/local/bin/bench use lib_management_sytsm
+2024-03-13 10:53:40,353 INFO /usr/local/bin/bench start
+2024-03-13 10:53:40,840 INFO /usr/local/bin/bench watch
+2024-03-13 10:53:40,853 INFO /usr/local/bin/bench schedule
+2024-03-13 10:53:40,874 INFO /usr/local/bin/bench worker
+2024-03-13 10:53:40,916 INFO /usr/local/bin/bench serve --port 8000
+2024-03-13 11:45:55,903 INFO /usr/local/bin/bench use lib_management_sytsm
+2024-03-13 11:46:15,143 INFO /usr/local/bin/bench start
+2024-03-13 11:46:15,635 INFO /usr/local/bin/bench schedule
+2024-03-13 11:46:15,652 INFO /usr/local/bin/bench watch
+2024-03-13 11:46:15,666 INFO /usr/local/bin/bench serve --port 8000
+2024-03-13 11:46:15,706 INFO /usr/local/bin/bench worker
+2024-03-13 12:00:02,078 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-13 20:25:49,781 INFO /usr/local/bin/bench use lib_management_sytsm
+2024-03-13 20:25:58,053 INFO /usr/local/bin/bench start
+2024-03-13 20:25:58,543 INFO /usr/local/bin/bench serve --port 8000
+2024-03-13 20:25:58,547 INFO /usr/local/bin/bench watch
+2024-03-13 20:25:58,557 INFO /usr/local/bin/bench schedule
+2024-03-13 20:25:58,600 INFO /usr/local/bin/bench worker
+2024-03-13 22:03:33,055 INFO /usr/local/bin/bench use lib_management_sytsm
+2024-03-13 22:03:51,695 INFO /usr/local/bin/bench start
+2024-03-13 22:03:52,161 INFO /usr/local/bin/bench serve --port 8000
+2024-03-13 22:03:52,185 INFO /usr/local/bin/bench schedule
+2024-03-13 22:03:52,186 INFO /usr/local/bin/bench worker
+2024-03-13 22:03:52,233 INFO /usr/local/bin/bench watch
+2024-03-14 12:33:06,637 INFO /usr/local/bin/bench use lib_management_sytsm
+2024-03-14 12:33:13,247 INFO /usr/local/bin/bench start
+2024-03-14 12:33:13,736 INFO /usr/local/bin/bench serve --port 8000
+2024-03-14 12:33:13,737 INFO /usr/local/bin/bench schedule
+2024-03-14 12:33:13,742 INFO /usr/local/bin/bench worker
+2024-03-14 12:33:13,811 INFO /usr/local/bin/bench watch
+2024-03-14 18:00:02,072 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-15 09:02:09,140 INFO /usr/local/bin/bench use lib_management_sytsm
+2024-03-15 09:02:19,922 INFO /usr/local/bin/bench start
+2024-03-15 09:02:20,509 INFO /usr/local/bin/bench serve --port 8000
+2024-03-15 09:02:20,536 INFO /usr/local/bin/bench watch
+2024-03-15 09:02:20,657 INFO /usr/local/bin/bench schedule
+2024-03-15 09:02:20,815 INFO /usr/local/bin/bench worker
+2024-03-15 10:22:12,870 INFO /usr/local/bin/bench init --frappe-branch version-14 gym
+2024-03-15 10:22:12,932 DEBUG cd gym && python3 -m venv env
+2024-03-15 10:22:17,554 DEBUG cd gym && /home/nash_dev/frappe-bench/gym/env/bin/python -m pip install --quiet --upgrade pip
+2024-03-15 10:22:22,226 DEBUG cd gym && /home/nash_dev/frappe-bench/gym/env/bin/python -m pip install --quiet wheel
+2024-03-15 10:22:26,598 LOG Getting frappe
+2024-03-15 10:22:26,599 DEBUG cd gym/apps && git clone https://github.com/frappe/frappe.git --branch version-14 --depth 1 --origin upstream
+2024-03-15 10:22:41,015 WARNING /usr/local/bin/bench init --frappe-branch version-14 gym executed with exit code 1
+2024-03-15 10:22:41,774 INFO A newer version of bench is available: 5.22.0 → 5.22.3
+2024-03-15 11:27:58,961 INFO /usr/local/bin/bench use lib_management_sytsm
+2024-03-15 11:28:05,526 INFO /usr/local/bin/bench start
+2024-03-15 11:28:06,028 INFO /usr/local/bin/bench watch
+2024-03-15 11:28:06,037 INFO /usr/local/bin/bench serve --port 8000
+2024-03-15 11:28:06,074 INFO /usr/local/bin/bench worker
+2024-03-15 11:28:06,090 INFO /usr/local/bin/bench schedule
+2024-03-15 12:00:01,460 INFO /usr/local/bin/bench --verbose --site all backup
+2024-03-18 09:02:29,103 INFO /usr/local/bin/bench use lib_management_sytsm
+2024-03-18 09:02:38,848 INFO /usr/local/bin/bench start
+2024-03-18 09:02:39,490 INFO /usr/local/bin/bench serve --port 8000
+2024-03-18 09:02:39,628 INFO /usr/local/bin/bench watch
+2024-03-18 09:02:39,665 INFO /usr/local/bin/bench worker
+2024-03-18 09:02:39,705 INFO /usr/local/bin/bench schedule

@@ -1,0 +1,135 @@
+2024-02-22 21:18:36,291 ERROR frappe New Exception collected with id: 2024-02-22 21:18:36.203472-127.0.0.1-5ef
+Site: lib_management_sytsm
+Form Dict: {'txt': '', 'doctype': 'Book', 'ignore_user_permissions': '0', 'reference_doctype': 'Book Issue', 'filters': '["Book Issue","status","=","Returned"]', 'cmd': 'frappe.desk.search.search_link'}
+2024-02-22 21:22:30,296 ERROR frappe New Exception collected with id: 2024-02-22 21:22:30.213964-127.0.0.1-79a
+Site: lib_management_sytsm
+Form Dict: {'txt': '', 'doctype': 'Book', 'ignore_user_permissions': '0', 'reference_doctype': 'Book Issue', 'filters': '["Book Issue","status","=","Returned"]', 'cmd': 'frappe.desk.search.search_link'}
+2024-02-22 21:23:21,804 ERROR frappe New Exception collected with id: 2024-02-22 21:23:21.685119-127.0.0.1-acb
+Site: lib_management_sytsm
+Form Dict: {'doctype': 'Book Issue', 'with_parent': '1', 'cached_timestamp': '2024-02-22 21:09:20.221199', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2024-02-22 21:23:54,573 ERROR frappe New Exception collected with id: 2024-02-22 21:23:54.494257-127.0.0.1-f32
+Site: lib_management_sytsm
+Form Dict: {'txt': '', 'doctype': 'Book', 'ignore_user_permissions': '0', 'reference_doctype': 'Book Issue', 'filters': '["Book Issue","status","=","Returned"]', 'cmd': 'frappe.desk.search.search_link'}
+2024-02-22 21:26:38,331 ERROR frappe New Exception collected with id: 2024-02-22 21:26:38.244406-127.0.0.1-233
+Site: lib_management_sytsm
+Form Dict: {'txt': '', 'doctype': 'Book', 'ignore_user_permissions': '0', 'reference_doctype': 'Book Issue', 'filters': '["Book Issue","status","=","Returned"]', 'cmd': 'frappe.desk.search.search_link'}
+2024-02-22 21:27:05,679 ERROR frappe New Exception collected with id: 2024-02-22 21:27:05.666360-127.0.0.1-f7b
+Site: lib_management_sytsm
+Form Dict: {'txt': '', 'doctype': 'Book', 'ignore_user_permissions': '0', 'reference_doctype': 'Book Issue', 'filters': '["Book","status","=","Returned"]', 'cmd': 'frappe.desk.search.search_link'}
+2024-02-22 21:30:09,792 ERROR frappe New Exception collected with id: 2024-02-22 21:30:09.780910-127.0.0.1-3a0
+Site: lib_management_sytsm
+Form Dict: {'txt': '', 'doctype': 'Book', 'ignore_user_permissions': '0', 'reference_doctype': 'Book Issue', 'filters': '["Book","status","=","Returned"]', 'cmd': 'frappe.desk.search.search_link'}
+2024-02-22 21:32:23,137 ERROR frappe New Exception collected with id: 2024-02-22 21:32:23.125985-127.0.0.1-94f
+Site: lib_management_sytsm
+Form Dict: {'txt': '', 'doctype': 'Book Issue', 'ignore_user_permissions': '0', 'reference_doctype': 'Book Issue', 'filters': '["Book Issue","status","=","Returned"]', 'cmd': 'frappe.desk.search.search_link'}
+2024-02-22 21:33:17,610 ERROR frappe New Exception collected with id: 2024-02-22 21:33:17.594799-127.0.0.1-c01
+Site: lib_management_sytsm
+Form Dict: {'txt': '', 'doctype': 'Book Issue', 'ignore_user_permissions': '0', 'reference_doctype': 'Book Issue', 'filters': '["Book Issue","status","=","Returned"]', 'cmd': 'frappe.desk.search.search_link'}
+2024-02-22 21:35:00,363 ERROR frappe New Exception collected with id: 2024-02-22 21:35:00.352459-127.0.0.1-950
+Site: lib_management_sytsm
+Form Dict: {'txt': '', 'doctype': 'Book', 'ignore_user_permissions': '0', 'reference_doctype': 'Book Issue', 'filters': '["Book","status","=","Returned"]', 'cmd': 'frappe.desk.search.search_link'}
+2024-02-22 21:36:38,277 ERROR frappe New Exception collected with id: 2024-02-22 21:36:38.269769-127.0.0.1-a97
+Site: lib_management_sytsm
+Form Dict: {'txt': '', 'doctype': 'Book', 'ignore_user_permissions': '0', 'reference_doctype': 'Book Issue', 'filters': '[["Book Issue","status","=","Returned"]]', 'cmd': 'frappe.desk.search.search_link'}
+2024-03-05 11:03:06,225 ERROR frappe New Exception collected with id: 2024-03-05 11:03:06.049794-127.0.0.1-f87
+Site: lib_management_sytsm
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Book Issue","name":"new-book-issue-lbfykejpoy","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Issued","borrow_date":"2024-03-05T08:02:58.199Z","library_member":"John","book":"The Secret Admirer","return_date":"2024-03-09T08:02:58.199Z"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-03-05 11:07:02,135 ERROR frappe New Exception collected with id: 2024-03-05 11:07:02.122573-127.0.0.1-a67
+Site: lib_management_sytsm
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Book Issue","name":"new-book-issue-yynsnwbjwl","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Issued","borrow_date":"2024-03-05T08:06:55.128Z","library_member":"David","book":"The Secret Admirer","return_date":"2024-03-09"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-03-05 11:09:49,724 ERROR frappe New Exception collected with id: 2024-03-05 11:09:49.713979-127.0.0.1-51e
+Site: lib_management_sytsm
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Book Issue","name":"new-book-issue-rustaqhlsu","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Issued","borrow_date":"2024-03-11T08:09:39.237Z","library_member":"John","book":"The Illuminated","return_date":"2024-03-11"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-03-05 11:14:10,722 ERROR frappe New Exception collected with id: 2024-03-05 11:14:10.712091-127.0.0.1-85b
+Site: lib_management_sytsm
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Book Issue","name":"new-book-issue-qgwblkkjxh","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Issued","borrow_date":"2024-03-05T08:13:59.333Z","library_member":"John","book":"The Illuminated","return_date":"2024-03-11"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-03-05 11:22:05,441 ERROR frappe New Exception collected with id: 2024-03-05 11:22:05.429329-127.0.0.1-3b6
+Site: lib_management_sytsm
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Book Issue","name":"new-book-issue-sfjrmhmlrg","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Issued","borrow_date":"2024-03-05T08:21:41.528Z","library_member":"David","book":"The Secret Admirer","return_date":"2024-03-09T08:21:41.528Z"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-03-05 11:22:23,016 ERROR frappe New Exception collected with id: 2024-03-05 11:22:23.006414-127.0.0.1-337
+Site: lib_management_sytsm
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Book Issue","name":"new-book-issue-sfjrmhmlrg","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Issued","borrow_date":"2024-03-05T08:21:41.528Z","library_member":"David","book":"The Secret Admirer","return_date":"2024-03-09T08:21:41.528Z"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-03-05 11:25:42,359 ERROR frappe New Exception collected with id: 2024-03-05 11:25:42.347438-127.0.0.1-123
+Site: lib_management_sytsm
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Book Issue","name":"new-book-issue-bqbfvhdbup","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Issued","borrow_date":"2024-03-05","library_member":"David","book":"The Secret Admirer","return_date":"2024-03-09T00:00:00.000Z"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-03-05 11:25:51,004 ERROR frappe New Exception collected with id: 2024-03-05 11:25:50.995193-127.0.0.1-608
+Site: lib_management_sytsm
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Book Issue","name":"new-book-issue-bqbfvhdbup","__islocal":1,"__unsaved":1,"owner":"Administrator","status":"Issued","borrow_date":"2024-03-05","library_member":"David","book":"The Secret Admirer","return_date":"2024-03-09T00:00:00.000Z"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-03-05 12:19:37,788 ERROR frappe New Exception collected with id: 2024-03-05 12:19:37.691033-127.0.0.1-7e7
+Site: lib_management_sytsm
+Form Dict: {'doctype': 'Library Member', 'name': 'Samantha', 'cmd': 'frappe.desk.form.load.getdoc'}
+2024-03-05 12:21:05,528 ERROR frappe New Exception collected with id: 2024-03-05 12:21:05.522077-127.0.0.1-dc4
+Site: lib_management_sytsm
+Form Dict: {'doctype': 'Library Member', 'name': 'Samantha', 'cmd': 'frappe.desk.form.load.getdoc'}
+2024-03-05 12:23:41,794 ERROR frappe New Exception collected with id: 2024-03-05 12:23:41.788621-127.0.0.1-8c4
+Site: lib_management_sytsm
+Form Dict: {'doctype': 'Library Member', 'name': 'Samantha', 'cmd': 'frappe.desk.form.load.getdoc'}
+2024-03-05 12:31:04,325 ERROR frappe New Exception collected with id: 2024-03-05 12:31:04.222232-127.0.0.1-b87
+Site: lib_management_sytsm
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Library Member","name":"new-library-member-cqubuowimg","__islocal":1,"__unsaved":1,"owner":"Administrator","first_name":"Kanana","last__name":"Nashna","date_of_join":"2024-03-05","mobile_number":"0795234909"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2024-03-05 13:58:40,773 ERROR frappe New Exception collected with id: 2024-03-05 13:58:40.656302-127.0.0.1-3ef
+Site: lib_management_sytsm
+Form Dict: {'blacklist_status': 'Yes', 'blacklist_duration': '4', 'cmd': 'library.services.rest.update_blacklist_status'}
+2024-03-05 13:59:39,929 ERROR frappe New Exception collected with id: 2024-03-05 13:59:39.794901-127.0.0.1-e64
+Site: lib_management_sytsm
+Form Dict: {'blacklist_status': 'Yes', 'blacklist_duration': '4', 'cmd': 'library.services.rest.update_blacklist_status'}
+2024-03-05 14:03:02,326 ERROR frappe New Exception collected with id: 2024-03-05 14:03:02.322083-127.0.0.1-060
+Site: lib_management_sytsm
+Form Dict: {'library_member': 'Carol Kanana', 'blacklist_status': 'No', 'cmd': 'library.services.rest.update_blacklist_status'}
+2024-03-05 14:11:18,203 ERROR frappe New Exception collected with id: 2024-03-05 14:11:18.199201-127.0.0.1-59e
+Site: lib_management_sytsm
+Form Dict: {'library_member': 'Carol Kanana', 'blacklist_status': 'No', 'cmd': 'library.services.rest.update_blacklist_status'}
+2024-03-05 14:12:48,926 ERROR frappe New Exception collected with id: 2024-03-05 14:12:48.827872-127.0.0.1-d1b
+Site: lib_management_sytsm
+Form Dict: {'library_member': 'Carol Kanana', 'blacklist_status': 'No', 'cmd': 'library.services.rest.update_blacklist_status'}
+2024-03-06 09:01:27,273 ERROR frappe New Exception collected with id: 2024-03-06 09:01:27.193082-127.0.0.1-a90
+Site: lib_management_sytsm
+Form Dict: {'book': 'Farmer Mmoja', 'cmd': 'library.services.rest.update_book_status'}
+2024-03-06 09:07:02,573 ERROR frappe New Exception collected with id: 2024-03-06 09:07:02.451930-127.0.0.1-bfe
+Site: lib_management_sytsm
+Form Dict: {'book': 'Farmer Mmoja', 'cmd': 'library.services.rest.update_book_status'}
+2024-03-06 09:11:35,055 ERROR frappe New Exception collected with id: 2024-03-06 09:11:35.049310-127.0.0.1-73b
+Site: lib_management_sytsm
+Form Dict: {'book': 'Farmer Mmoja', 'cmd': 'library.services.rest.update_book_status'}
+2024-03-06 09:15:17,674 ERROR frappe New Exception collected with id: 2024-03-06 09:15:17.670251-127.0.0.1-268
+Site: lib_management_sytsm
+Form Dict: {'book': 'Farmer Mmoja', 'cmd': 'library.services.rest.update_book_status'}
+2024-03-06 09:17:33,424 ERROR frappe New Exception collected with id: 2024-03-06 09:17:33.417950-127.0.0.1-e07
+Site: lib_management_sytsm
+Form Dict: {'book': 'Farmer Mmoja', 'cmd': 'library.services.rest.update_book_status'}
+2024-03-06 09:26:49,757 ERROR frappe New Exception collected with id: 2024-03-06 09:26:49.751455-127.0.0.1-bd3
+Site: lib_management_sytsm
+Form Dict: {'book': 'Farmer Mmoja', 'cmd': 'library.services.rest.update_book_status'}
+2024-03-06 09:42:36,079 ERROR frappe New Exception collected with id: 2024-03-06 09:42:36.075547-127.0.0.1-306
+Site: lib_management_sytsm
+Form Dict: {'book': 'Farmer Mmoja', 'cmd': 'library.services.rest.update_book_status'}
+2024-03-06 09:43:40,388 ERROR frappe New Exception collected with id: 2024-03-06 09:43:40.380982-127.0.0.1-745
+Site: lib_management_sytsm
+Form Dict: {'book': 'Farmer Mmoja', 'cmd': 'library.services.rest.update_book_status'}
+2024-03-06 09:45:54,628 ERROR frappe New Exception collected with id: 2024-03-06 09:45:54.624538-127.0.0.1-384
+Site: lib_management_sytsm
+Form Dict: {'book': 'Farmer Mmoja', 'cmd': 'library.services.rest.update_book_status'}
+2024-03-06 09:49:40,372 ERROR frappe New Exception collected with id: 2024-03-06 09:49:40.287248-127.0.0.1-7ff
+Site: lib_management_sytsm
+Form Dict: {'book': 'Farmer Mmoja', 'cmd': 'library.services.rest.update_book_status'}
+2024-03-06 10:44:35,360 ERROR frappe New Exception collected with id: 2024-03-06 10:44:35.110142-127.0.0.1-cf1
+Site: lib_management_sytsm
+Form Dict: {'book': 'back in the days', 'cmd': 'library.services.rest.update_book_status'}
+2024-03-08 11:11:48,523 ERROR frappe New Exception collected with id: 2024-03-08 11:11:48.438128-127.0.0.1-11b
+Site: lib_management_sytsm
+Form Dict: {'doctype': 'Customer', 'cmd': 'frappe.client.get'}
+2024-03-08 11:13:41,851 ERROR frappe New Exception collected with id: 2024-03-08 11:13:41.844970-127.0.0.1-f8f
+Site: lib_management_sytsm
+Form Dict: {'doctype': 'Customer', 'cmd': 'frappe.client.get'}
+2024-03-08 11:24:13,557 ERROR frappe New Exception collected with id: 2024-03-08 11:24:13.418779-127.0.0.1-e7b
+Site: lib_management_sytsm
+Form Dict: {'mobile': '0795933852', 'message': 'hey beautiful angel happy int womens day', 'cmd': 'library.services.rest.send_sms_from_request'}
+2024-03-08 12:09:53,170 ERROR frappe New Exception collected with id: 2024-03-08 12:09:53.067116-127.0.0.1-0a4
+Site: lib_management_sytsm
+Form Dict: {'mobile': '0795933852', 'message': 'Happy int women day ', 'cmd': 'library.services.rest.send_sms_from_request'}
+2024-03-08 12:14:25,696 ERROR frappe New Exception collected with id: 2024-03-08 12:14:25.592839-127.0.0.1-360
+Site: lib_management_sytsm
+Form Dict: {'mobile': '0795933852', 'message': 'Happy intl women day Beautiful', 'cmd': 'library.services.rest.send_sms_from_request'}
+2024-03-08 13:42:54,165 ERROR frappe New Exception collected with id: 2024-03-08 13:42:53.922499-127.0.0.1-0d9
+Site: lib_management_sytsm
+Form Dict: {'mobile': '0795933852', 'message': 'paybill', 'cmd': 'library.services.rest.send_sms_from_request'}

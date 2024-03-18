@@ -1,0 +1,415 @@
+/home/nash_dev/frappe-bench/env/bin/python: Error while finding module specification for 'frappe.utils.bench_helper' (ModuleNotFoundError: No module named 'frappe')
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _40f7fa70bce73201 -p********** _40f7fa70bce73201 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./lib_management_sytsm/private/backups/20240223_120003-lib_management_sytsm-database.sql.gz
+
+Backup Summary for lib_management_sytsm at 2024-02-23 12:00:03.907458
+Config  : ./lib_management_sytsm/private/backups/20240223_120003-lib_management_sytsm-site_config_backup.json 116.0B
+Database: ./lib_management_sytsm/private/backups/20240223_120003-lib_management_sytsm-database.sql.gz         292.4KiB
+Backup for Site lib_management_sytsm has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _40f7fa70bce73201 -p********** _40f7fa70bce73201 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./lib_management_sytsm/private/backups/20240226_120003-lib_management_sytsm-database.sql.gz
+
+Backup Summary for lib_management_sytsm at 2024-02-26 12:00:04.292790
+Config  : ./lib_management_sytsm/private/backups/20240226_120003-lib_management_sytsm-site_config_backup.json 116.0B
+Database: ./lib_management_sytsm/private/backups/20240226_120003-lib_management_sytsm-database.sql.gz         292.4KiB
+Backup for Site lib_management_sytsm has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _40f7fa70bce73201 -p********** _40f7fa70bce73201 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./lib_management_sytsm/private/backups/20240227_120003-lib_management_sytsm-database.sql.gz
+
+Backup Summary for lib_management_sytsm at 2024-02-27 12:00:04.654926
+Config  : ./lib_management_sytsm/private/backups/20240227_120003-lib_management_sytsm-site_config_backup.json 116.0B
+Database: ./lib_management_sytsm/private/backups/20240227_120003-lib_management_sytsm-database.sql.gz         292.4KiB
+Backup for Site lib_management_sytsm has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _40f7fa70bce73201 -p********** _40f7fa70bce73201 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./lib_management_sytsm/private/backups/20240228_120004-lib_management_sytsm-database.sql.gz
+
+Backup Summary for lib_management_sytsm at 2024-02-28 12:00:05.470973
+Config  : ./lib_management_sytsm/private/backups/20240228_120004-lib_management_sytsm-site_config_backup.json 116.0B
+Database: ./lib_management_sytsm/private/backups/20240228_120004-lib_management_sytsm-database.sql.gz         292.4KiB
+Backup for Site lib_management_sytsm has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _40f7fa70bce73201 -p********** _40f7fa70bce73201 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./lib_management_sytsm/private/backups/20240304_120003-lib_management_sytsm-database.sql.gz
+
+Backup Summary for lib_management_sytsm at 2024-03-04 12:00:03.764577
+Config  : ./lib_management_sytsm/private/backups/20240304_120003-lib_management_sytsm-site_config_backup.json 116.0B
+Database: ./lib_management_sytsm/private/backups/20240304_120003-lib_management_sytsm-database.sql.gz         296.4KiB
+Backup for Site lib_management_sytsm has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _40f7fa70bce73201 -p********** _40f7fa70bce73201 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./lib_management_sytsm/private/backups/20240305_120004-lib_management_sytsm-database.sql.gz
+
+Backup Summary for lib_management_sytsm at 2024-03-05 12:00:05.388224
+Config  : ./lib_management_sytsm/private/backups/20240305_120004-lib_management_sytsm-site_config_backup.json 116.0B
+Database: ./lib_management_sytsm/private/backups/20240305_120004-lib_management_sytsm-database.sql.gz         304.3KiB
+Backup for Site lib_management_sytsm has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _40f7fa70bce73201 -p********** _40f7fa70bce73201 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./lib_management_sytsm/private/backups/20240306_120003-lib_management_sytsm-database.sql.gz
+
+Backup Summary for lib_management_sytsm at 2024-03-06 12:00:04.870795
+Config  : ./lib_management_sytsm/private/backups/20240306_120003-lib_management_sytsm-site_config_backup.json 116.0B
+Database: ./lib_management_sytsm/private/backups/20240306_120003-lib_management_sytsm-database.sql.gz         345.2KiB
+Backup for Site lib_management_sytsm has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _40f7fa70bce73201 -p********** _40f7fa70bce73201 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./lib_management_sytsm/private/backups/20240311_180003-lib_management_sytsm-database.sql.gz
+
+Backup Summary for lib_management_sytsm at 2024-03-11 18:00:03.688460
+Config  : ./lib_management_sytsm/private/backups/20240311_180003-lib_management_sytsm-site_config_backup.json 116.0B
+Database: ./lib_management_sytsm/private/backups/20240311_180003-lib_management_sytsm-database.sql.gz         363.9KiB
+Backup for Site lib_management_sytsm has been successfully completed
+self=$$;  ( mysqldump --single-transaction --quick --lock-tables=false -u _40f7fa70bce73201 -p********** _40f7fa70bce73201 -h 127.0.0.1 -P 3306   || kill $self )  | /usr/bin/gzip >> ./lib_management_sytsm/private/backups/20240312_180003-lib_management_sytsm-database.sql.gz
+
+Backup Summary for lib_management_sytsm at 2024-03-12 18:00:04.302875
+Config  : ./lib_management_sytsm/private/backups/20240312_180003-lib_management_sytsm-site_config_backup.json 116.0B
+Database: ./lib_management_sytsm/private/backups/20240312_180003-lib_management_sytsm-database.sql.gz         368.0KiB
+Backup for Site lib_management_sytsm has been successfully completed
+Backup failed for Site actions.localhost. Database or site_config.json may be corrupted
+Traceback (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 831, in backup
+    odb = scheduled_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 533, in scheduled_backup
+    odb = new_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 567, in new_backup
+    odb = BackupGenerator(
+  File "apps/frappe/frappe/utils/backups.py", line 84, in __init__
+    self.setup_backup_tables()
+  File "apps/frappe/frappe/utils/backups.py", line 116, in setup_backup_tables
+    existing_tables = frappe.db.get_tables()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 440, in get_tables
+    frappe.qb.from_(information_schema.tables)
+  File "apps/frappe/frappe/query_builder/utils.py", line 87, in execute_query
+    result = frappe.db.sql(query, params, *args, **kwargs)  # nosemgrep
+  File "apps/frappe/frappe/database/database.py", line 220, in sql
+    self.connect()
+  File "apps/frappe/frappe/database/database.py", line 125, in connect
+    self._conn: Union["MariadbConnection", "PostgresConnection"] = self.get_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 99, in get_connection
+    conn = self._get_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 105, in _get_connection
+    return self.create_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 108, in create_connection
+    return pymysql.connect(**self.get_connection_settings())
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 352, in __init__
+    self.connect()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 636, in connect
+    self._request_authentication()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 911, in _request_authentication
+    auth_packet = self._read_packet()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 729, in _read_packet
+    packet.raise_for_error()
+  File "env/lib/python3.10/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "env/lib/python3.10/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1698, "Access denied for user '_8779b9bd7f394c6a'@'localhost'")
+
+Backup failed for Site lib_management_sytsm. Database or site_config.json may be corrupted
+Traceback (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 831, in backup
+    odb = scheduled_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 533, in scheduled_backup
+    odb = new_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 567, in new_backup
+    odb = BackupGenerator(
+  File "apps/frappe/frappe/utils/backups.py", line 84, in __init__
+    self.setup_backup_tables()
+  File "apps/frappe/frappe/utils/backups.py", line 116, in setup_backup_tables
+    existing_tables = frappe.db.get_tables()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 440, in get_tables
+    frappe.qb.from_(information_schema.tables)
+  File "apps/frappe/frappe/query_builder/utils.py", line 87, in execute_query
+    result = frappe.db.sql(query, params, *args, **kwargs)  # nosemgrep
+  File "apps/frappe/frappe/database/database.py", line 220, in sql
+    self.connect()
+  File "apps/frappe/frappe/database/database.py", line 125, in connect
+    self._conn: Union["MariadbConnection", "PostgresConnection"] = self.get_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 99, in get_connection
+    conn = self._get_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 105, in _get_connection
+    return self.create_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 108, in create_connection
+    return pymysql.connect(**self.get_connection_settings())
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 352, in __init__
+    self.connect()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 636, in connect
+    self._request_authentication()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 911, in _request_authentication
+    auth_packet = self._read_packet()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 729, in _read_packet
+    packet.raise_for_error()
+  File "env/lib/python3.10/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "env/lib/python3.10/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1698, "Access denied for user '_8779b9bd7f394c6a'@'localhost'")
+
+Backup failed for Site ui.localhost. Database or site_config.json may be corrupted
+Traceback (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 831, in backup
+    odb = scheduled_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 533, in scheduled_backup
+    odb = new_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 567, in new_backup
+    odb = BackupGenerator(
+  File "apps/frappe/frappe/utils/backups.py", line 84, in __init__
+    self.setup_backup_tables()
+  File "apps/frappe/frappe/utils/backups.py", line 116, in setup_backup_tables
+    existing_tables = frappe.db.get_tables()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 440, in get_tables
+    frappe.qb.from_(information_schema.tables)
+  File "apps/frappe/frappe/query_builder/utils.py", line 87, in execute_query
+    result = frappe.db.sql(query, params, *args, **kwargs)  # nosemgrep
+  File "apps/frappe/frappe/database/database.py", line 220, in sql
+    self.connect()
+  File "apps/frappe/frappe/database/database.py", line 125, in connect
+    self._conn: Union["MariadbConnection", "PostgresConnection"] = self.get_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 99, in get_connection
+    conn = self._get_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 105, in _get_connection
+    return self.create_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 108, in create_connection
+    return pymysql.connect(**self.get_connection_settings())
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 352, in __init__
+    self.connect()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 636, in connect
+    self._request_authentication()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 911, in _request_authentication
+    auth_packet = self._read_packet()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 729, in _read_packet
+    packet.raise_for_error()
+  File "env/lib/python3.10/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "env/lib/python3.10/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1698, "Access denied for user '_8779b9bd7f394c6a'@'localhost'")
+
+Backup failed for Site actions.localhost. Database or site_config.json may be corrupted
+Traceback (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 831, in backup
+    odb = scheduled_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 533, in scheduled_backup
+    odb = new_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 567, in new_backup
+    odb = BackupGenerator(
+  File "apps/frappe/frappe/utils/backups.py", line 84, in __init__
+    self.setup_backup_tables()
+  File "apps/frappe/frappe/utils/backups.py", line 116, in setup_backup_tables
+    existing_tables = frappe.db.get_tables()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 440, in get_tables
+    frappe.qb.from_(information_schema.tables)
+  File "apps/frappe/frappe/query_builder/utils.py", line 87, in execute_query
+    result = frappe.db.sql(query, params, *args, **kwargs)  # nosemgrep
+  File "apps/frappe/frappe/database/database.py", line 220, in sql
+    self.connect()
+  File "apps/frappe/frappe/database/database.py", line 125, in connect
+    self._conn: Union["MariadbConnection", "PostgresConnection"] = self.get_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 99, in get_connection
+    conn = self._get_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 105, in _get_connection
+    return self.create_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 108, in create_connection
+    return pymysql.connect(**self.get_connection_settings())
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 352, in __init__
+    self.connect()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 636, in connect
+    self._request_authentication()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 911, in _request_authentication
+    auth_packet = self._read_packet()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 729, in _read_packet
+    packet.raise_for_error()
+  File "env/lib/python3.10/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "env/lib/python3.10/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1698, "Access denied for user '_8779b9bd7f394c6a'@'localhost'")
+
+Backup failed for Site lib_management_sytsm. Database or site_config.json may be corrupted
+Traceback (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 831, in backup
+    odb = scheduled_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 533, in scheduled_backup
+    odb = new_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 567, in new_backup
+    odb = BackupGenerator(
+  File "apps/frappe/frappe/utils/backups.py", line 84, in __init__
+    self.setup_backup_tables()
+  File "apps/frappe/frappe/utils/backups.py", line 116, in setup_backup_tables
+    existing_tables = frappe.db.get_tables()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 440, in get_tables
+    frappe.qb.from_(information_schema.tables)
+  File "apps/frappe/frappe/query_builder/utils.py", line 87, in execute_query
+    result = frappe.db.sql(query, params, *args, **kwargs)  # nosemgrep
+  File "apps/frappe/frappe/database/database.py", line 220, in sql
+    self.connect()
+  File "apps/frappe/frappe/database/database.py", line 125, in connect
+    self._conn: Union["MariadbConnection", "PostgresConnection"] = self.get_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 99, in get_connection
+    conn = self._get_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 105, in _get_connection
+    return self.create_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 108, in create_connection
+    return pymysql.connect(**self.get_connection_settings())
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 352, in __init__
+    self.connect()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 636, in connect
+    self._request_authentication()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 911, in _request_authentication
+    auth_packet = self._read_packet()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 729, in _read_packet
+    packet.raise_for_error()
+  File "env/lib/python3.10/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "env/lib/python3.10/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1698, "Access denied for user '_8779b9bd7f394c6a'@'localhost'")
+
+Backup failed for Site ui.localhost. Database or site_config.json may be corrupted
+Traceback (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 831, in backup
+    odb = scheduled_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 533, in scheduled_backup
+    odb = new_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 567, in new_backup
+    odb = BackupGenerator(
+  File "apps/frappe/frappe/utils/backups.py", line 84, in __init__
+    self.setup_backup_tables()
+  File "apps/frappe/frappe/utils/backups.py", line 116, in setup_backup_tables
+    existing_tables = frappe.db.get_tables()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 440, in get_tables
+    frappe.qb.from_(information_schema.tables)
+  File "apps/frappe/frappe/query_builder/utils.py", line 87, in execute_query
+    result = frappe.db.sql(query, params, *args, **kwargs)  # nosemgrep
+  File "apps/frappe/frappe/database/database.py", line 220, in sql
+    self.connect()
+  File "apps/frappe/frappe/database/database.py", line 125, in connect
+    self._conn: Union["MariadbConnection", "PostgresConnection"] = self.get_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 99, in get_connection
+    conn = self._get_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 105, in _get_connection
+    return self.create_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 108, in create_connection
+    return pymysql.connect(**self.get_connection_settings())
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 352, in __init__
+    self.connect()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 636, in connect
+    self._request_authentication()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 911, in _request_authentication
+    auth_packet = self._read_packet()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 729, in _read_packet
+    packet.raise_for_error()
+  File "env/lib/python3.10/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "env/lib/python3.10/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1698, "Access denied for user '_8779b9bd7f394c6a'@'localhost'")
+
+Backup failed for Site actions.localhost. Database or site_config.json may be corrupted
+Traceback (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 831, in backup
+    odb = scheduled_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 533, in scheduled_backup
+    odb = new_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 567, in new_backup
+    odb = BackupGenerator(
+  File "apps/frappe/frappe/utils/backups.py", line 84, in __init__
+    self.setup_backup_tables()
+  File "apps/frappe/frappe/utils/backups.py", line 116, in setup_backup_tables
+    existing_tables = frappe.db.get_tables()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 440, in get_tables
+    frappe.qb.from_(information_schema.tables)
+  File "apps/frappe/frappe/query_builder/utils.py", line 87, in execute_query
+    result = frappe.db.sql(query, params, *args, **kwargs)  # nosemgrep
+  File "apps/frappe/frappe/database/database.py", line 220, in sql
+    self.connect()
+  File "apps/frappe/frappe/database/database.py", line 125, in connect
+    self._conn: Union["MariadbConnection", "PostgresConnection"] = self.get_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 99, in get_connection
+    conn = self._get_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 105, in _get_connection
+    return self.create_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 108, in create_connection
+    return pymysql.connect(**self.get_connection_settings())
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 352, in __init__
+    self.connect()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 636, in connect
+    self._request_authentication()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 911, in _request_authentication
+    auth_packet = self._read_packet()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 729, in _read_packet
+    packet.raise_for_error()
+  File "env/lib/python3.10/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "env/lib/python3.10/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1045, "Access denied for user '_8779b9bd7f394c6a'@'localhost' (using password: YES)")
+
+Backup failed for Site lib_management_sytsm. Database or site_config.json may be corrupted
+Traceback (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 831, in backup
+    odb = scheduled_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 533, in scheduled_backup
+    odb = new_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 567, in new_backup
+    odb = BackupGenerator(
+  File "apps/frappe/frappe/utils/backups.py", line 84, in __init__
+    self.setup_backup_tables()
+  File "apps/frappe/frappe/utils/backups.py", line 116, in setup_backup_tables
+    existing_tables = frappe.db.get_tables()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 440, in get_tables
+    frappe.qb.from_(information_schema.tables)
+  File "apps/frappe/frappe/query_builder/utils.py", line 87, in execute_query
+    result = frappe.db.sql(query, params, *args, **kwargs)  # nosemgrep
+  File "apps/frappe/frappe/database/database.py", line 220, in sql
+    self.connect()
+  File "apps/frappe/frappe/database/database.py", line 125, in connect
+    self._conn: Union["MariadbConnection", "PostgresConnection"] = self.get_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 99, in get_connection
+    conn = self._get_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 105, in _get_connection
+    return self.create_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 108, in create_connection
+    return pymysql.connect(**self.get_connection_settings())
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 352, in __init__
+    self.connect()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 636, in connect
+    self._request_authentication()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 911, in _request_authentication
+    auth_packet = self._read_packet()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 729, in _read_packet
+    packet.raise_for_error()
+  File "env/lib/python3.10/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "env/lib/python3.10/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1045, "Access denied for user '_8779b9bd7f394c6a'@'localhost' (using password: YES)")
+
+Backup failed for Site ui.localhost. Database or site_config.json may be corrupted
+Traceback (most recent call last):
+  File "apps/frappe/frappe/commands/site.py", line 831, in backup
+    odb = scheduled_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 533, in scheduled_backup
+    odb = new_backup(
+  File "apps/frappe/frappe/utils/backups.py", line 567, in new_backup
+    odb = BackupGenerator(
+  File "apps/frappe/frappe/utils/backups.py", line 84, in __init__
+    self.setup_backup_tables()
+  File "apps/frappe/frappe/utils/backups.py", line 116, in setup_backup_tables
+    existing_tables = frappe.db.get_tables()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 440, in get_tables
+    frappe.qb.from_(information_schema.tables)
+  File "apps/frappe/frappe/query_builder/utils.py", line 87, in execute_query
+    result = frappe.db.sql(query, params, *args, **kwargs)  # nosemgrep
+  File "apps/frappe/frappe/database/database.py", line 220, in sql
+    self.connect()
+  File "apps/frappe/frappe/database/database.py", line 125, in connect
+    self._conn: Union["MariadbConnection", "PostgresConnection"] = self.get_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 99, in get_connection
+    conn = self._get_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 105, in _get_connection
+    return self.create_connection()
+  File "apps/frappe/frappe/database/mariadb/database.py", line 108, in create_connection
+    return pymysql.connect(**self.get_connection_settings())
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 352, in __init__
+    self.connect()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 636, in connect
+    self._request_authentication()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 911, in _request_authentication
+    auth_packet = self._read_packet()
+  File "env/lib/python3.10/site-packages/pymysql/connections.py", line 729, in _read_packet
+    packet.raise_for_error()
+  File "env/lib/python3.10/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "env/lib/python3.10/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1045, "Access denied for user '_8779b9bd7f394c6a'@'localhost' (using password: YES)")
+
